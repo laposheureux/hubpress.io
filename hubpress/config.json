@@ -15,9 +15,9 @@
     "disqus": "laposheureux"
   },
   "socialnetwork": {
-    "twitter": "dotstrosity",
-    "linkedin": "aaronlh",
-    "github": "laposheureux"
+    "twitter": "https://twitter.com/dotstrosity",
+    "linkedin": "https://www.linkedin.com/in/aaronlh",
+    "github": "https://github.com/laposheureux"
   },
   "theme": {
     "name": "ichi"
