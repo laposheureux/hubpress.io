@@ -12,7 +12,11 @@
     "googleAnalytics": "UA-86497941-1",
     "disqus": "laposheureux"
   },
-  "socialnetwork": {},
+  "socialnetwork": {
+    "twitter": "dotstrosity",
+    "linkedin": "aaronlh",
+    "github": "laposheureux"
+  },
   "theme": {
     "name": "casper"
   }
