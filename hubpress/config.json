@@ -3,7 +3,8 @@
     "username": "laposheureux",
     "repositoryName": "laposheureux.github.io",
     "branch": "master",
-    "cname": ""
+    "cname": "",
+    "delay": "500"
   },
   "site": {
     "title": "Online life with an apostrophe",
