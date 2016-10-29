@@ -5,7 +5,13 @@
     "branch": "master",
     "cname": ""
   },
-  "site": {},
+  "site": {
+    "title": "laposheureux.github.io",
+    "description": "Aaron L'Heureux is an iOS engineer at Imgur and former Front-end engineer at Imgur, Amazon, and Boston University.",
+    "postsPerPage": "5",
+    "googleAnalytics": "UA-86497941-1",
+    "disqus": "laposheureux"
+  },
   "socialnetwork": {},
   "theme": {
     "name": "casper"
