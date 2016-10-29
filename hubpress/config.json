@@ -2,9 +2,12 @@
   "meta": {
     "username": "laposheureux",
     "repositoryName": "laposheureux.github.io",
-    "branch": "master"
+    "branch": "master",
+    "cname": "rightmeow.xyz"
   },
+  "site": {},
+  "socialnetwork": {},
   "theme": {
-    "name": "Casper"
+    "name": "casper"
   }
 }
