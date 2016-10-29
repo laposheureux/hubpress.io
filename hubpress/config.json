@@ -13,9 +13,9 @@
     "disqus": "laposheureux"
   },
   "socialnetwork": {
-    "twitter": "dotstrosity",
+    "twitter": "http://twitter.com/dotstrosity",
     "linkedin": "aaronlh",
-    "github": "laposheureux"
+    "github": "http://github.com/laposheureux"
   },
   "theme": {
     "name": "casper"
