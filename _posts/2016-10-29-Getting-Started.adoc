@@ -1,3 +1,5 @@
-# Getting Started
+= Getting Started
 
-Just setting up the basics for the moment. I plan to talk about past and current projects, technology in the world that inspires me, and other random things like games or a/v hardware or cats.
+Just setting up the basics for the moment. I plan to talk about past and current projects, technology in the world that interests me, and other random things like games or a/v hardware or travel or cats.
+
+This blog is powered by Hubpress, which is basically the easiest thing to setup I've ever seen. I don't want to npm/gem/whatever install or run a web server locally or build and deploy anything. The biggest friction point to writing a blog, in my opinion, is dealing with the non-writing and Hubpress is pretty frictionless. http://hubpress.io[Give it a try.]
