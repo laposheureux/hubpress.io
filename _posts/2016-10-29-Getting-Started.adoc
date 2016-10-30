@@ -1,4 +1,5 @@
 = Getting Started
+:hp-tags: Hubpress
 
 Just setting up the basics for the moment. I plan to talk about past and current projects, technology in the world that interests me, and other random things like games or a/v hardware or travel or cats.
 
