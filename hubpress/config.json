@@ -9,7 +9,8 @@
   "site": {
     "title": "Online life with an apostrophe",
     "description": "Aaron L'Heureux a San Francisco resident and an iOS engineer at Imgur. Former front-end engineer at Imgur, Amazon, and Boston University.",
-    "cover": "https://github.com/laposheureux/laposheureux.github.io/blob/master/bikesf.jpg",
+    "logo": "",
+    "cover": "http://github.com/laposheureux/laposheureux.github.io/images/bikesf.jpg",
     "postsPerPage": "10",
     "googleAnalytics": "UA-86497941-1",
     "disqus": "laposheureux"
