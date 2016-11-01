@@ -5,6 +5,9 @@
 
 Over the past year, I distinctly recall a palpable frustration with Apple's lineup. Not much had changed tangibly in years and lots of people with lots of different needs were all devouring the rumors waiting for their specific needs to be solved. It was basically a perfect recipe for disappointment and oh has there been disappointment. Unfortunately the need to have top tier gaming performance, be able to run high-teens numbers of VMs, last all day on battery, have both old ports and only new ones, and more just can't all fit into one system. Not even a line of systems.
 
+image::/images/macbooks/backtoback.jpg[]
+A glimpse of the future...with a few stumbling blocks (source: Apple PR)
+
 === Notable issues
 
 I want to talk to some of the FUD that has led to a number of complaints, but first there are certainly a few areas where Apple could have done better and helped curb some of the unrest.
