@@ -5,7 +5,7 @@
 
 Over the past year, I distinctly recall a palpable frustration with Apple's lineup. Not much had changed tangibly in years and lots of people with lots of different needs were all devouring the rumors waiting for their specific needs to be solved. It was basically a perfect recipe for disappointment and oh has there been disappointment. Unfortunately the need to have top tier gaming performance, be able to run high-teens numbers of VMs, last all day on battery, have both old ports and only new ones, and more just can't all fit into one system. Not even a line of systems.
 
-===== Notable issues
+==== Notable issues
 
 I want to talk to some of the FUD that has led to a number of complaints, but first there are certainly a few areas where Apple could have done better and helped curb some of the unrest.
 
@@ -24,7 +24,7 @@ image::/images/macbooks/expresscard.jpg[]
 The dongle you put *_in_* your computer (source: buysku.com)
 
 
-===== Misconceptions
+==== Misconceptions
 
 From here we enter the territory of "they literally could not do what you want" without either shipping nothing or shipping a piece of functionality that compromises the rest of the product too strongly in another area.
 
@@ -42,9 +42,10 @@ From here we enter the territory of "they literally could not do what you want" 
 
 In order to prove that this future is the right future, Apple and third parties need to knock the functionality of the Touch Bar out of the park. I'm not worried about the decision for all USB-C. I think we will find in the coming years that the all USB-C lifestyle will reduce peripheral complexity and make life actually easier. But for now, we're in that transition phase.
 
-[externalgpu]
-.External GPUs with OS X/Apple Hardware support shouldn't be far off. (source: thewolfe.io)
 image::/images/macbooks/wolfe.gif[]
+External GPUs with OS X/Apple Hardware support shouldn't be far off. (source: thewolfe.io)
+
+==== Where we go from here
 
 I want to get rid of my desktop entirely. I want to finally have OS X running as my primary computer with an external GPU/SSD for Windows and Mac gaming when the mood strikes. And I want to be able to take that computer with me and have powerful-enough graphics when I'm away without compromising on battery life.
 
