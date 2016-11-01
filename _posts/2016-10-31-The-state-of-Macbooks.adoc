@@ -11,6 +11,8 @@ I want to talk to some of the ... _disinformation_ ... that had led to a number 
 
 2. *No iGPU-only option for the 15" model*. Apple built expecations starting with the 2012 release of the Macbook Pro with Retina display that there would be a number of price tiers making the computers more accessible depending on your choice of compromises. Providing a 15" Macbook Pro without an AMD graphics option available could have helped extend that entry level 15" model price downward.
 
+3. *No compatibility aids in the box*. One USB-C -> USB-A dongle wouldn't have been the end of the world. It'd bring out of the box compatibility for the iPhone, your current backup drive, and that one flash drive still attached to your keychain. Of course the quantity of complaints for "shipping a computer that comes with a dongle to be useful" would be just as bad as "I can't use anything without buying a dongle" but I digress... 
+
 
 Ok, that list aside, the "it's not a pro laptop" crowd should really take a look back at the history of the Macbook Pro and the issues that were made large in the past...lest we forget the removal of Firewire and https://rubenerd.com/macbookpro-expresscard/[the ExpressCard slot, window="_blank"]. The prevailing argument of the time being that going from an ExpressCard slot to an SD card slot was a downgrade unlike other legacy eliminations of the time. Now we're back to a port that lets you connect a number of multipurpose things instead of a single use and that's bad too.
 
