@@ -1,0 +1,5 @@
+= The state of Macbooks
+:hp-image: /images/macbooks/macbooks.jpg
+:hp-tags: Apple, Macbook Pro, Macbook, AMD, Intel
+
+Over the past year, I distinctly recall a palpable frustration with Apple's lineup. Not much had changed tangibly in years and lots of people with lots of different needs were all devouring the rumors 
