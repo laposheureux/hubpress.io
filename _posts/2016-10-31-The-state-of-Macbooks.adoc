@@ -30,7 +30,11 @@ From here we enter the territory of "they literally could not do what you want" 
 
 1. *It doesn't have Kaby Lake?*. There's a lot to unpack here. First, there are no quad core CPUs for the 15" line (in the 40-50W vicinity). Second, there are no 20-30W-tier dual core CPUs for the 13" line. Intel did release 15W CPUs which would be suitable in the Air lineup (or the non Touch Bar Macbook Pro) and 4.5W CPUs for the Macbook, but launching newer generation hardware on the lowest tier products seems like a recipe for customer confusion.
 
-2. *It doesn't have DDR4?*. A significant contributor to 
+2. *It doesn't have DDR4?*. RAM is a non-trivial power drain on the overall system and Apple uses LPDDR3 modules (LP being low power). Skylake doesn't support LPDDR4. Kaby Lake wont even support LPDDR4. Let's also not forget that switching technologies for switching technology's sake isn't useful. DDR4 provides improvements in only a small slice of computing tasks and otherwise provides minimal if any tangible benefit.
+
+3. *It doesn't come with a 32GB RAM option?*. See above. This would have pushed Apple away from LPDDR3 modules, again, compromising battery life in a way that is not in line with any decision they've made in providing a baseline of battery life for the past 4 years of models of computers. Once again, Intel.
+
+4. *AMD graphics?*. Nvidia approached this generation from the top down, its highest powered devices 
 
 ---
 
