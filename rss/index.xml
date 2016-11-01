@@ -1,14 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Life with an apostrophe]]></title><description><![CDATA[Aaron L'Heureux is an iOS engineer at Imgur. Former front-end engineer at Amazon & Boston University.]]></description><link>http://laposheureux.com</link><image><url>/images/bikesf.jpg</url><title>Life with an apostrophe</title><link>http://laposheureux.com</link></image><generator>RSS for Node</generator><lastBuildDate>Tue, 01 Nov 2016 08:54:11 GMT</lastBuildDate><atom:link href="http://laposheureux.com/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[The state of Macbooks]]></title><description><![CDATA[<div class="paragraph">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Life with an apostrophe]]></title><description><![CDATA[Aaron L'Heureux is an iOS engineer at Imgur. Former front-end engineer at Amazon & Boston University.]]></description><link>http://laposheureux.com</link><image><url>/images/bikesf.jpg</url><title>Life with an apostrophe</title><link>http://laposheureux.com</link></image><generator>RSS for Node</generator><lastBuildDate>Tue, 01 Nov 2016 09:04:19 GMT</lastBuildDate><atom:link href="http://laposheureux.com/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[The state of Macbooks]]></title><description><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="paragraph">
 <p>Over the past year, I distinctly recall a palpable frustration with Apple&#8217;s lineup. Not much had changed tangibly in years and lots of people with lots of different needs were all devouring the rumors waiting for their specific needs to be solved. It was basically a perfect recipe for disappointment and oh has there been disappointment. Unfortunately the need to have top tier gaming performance, be able to run high-teens numbers of VMs, last all day on battery, have both old ports and only new ones, and more just can&#8217;t all fit into one system. Not even a line of systems.</p>
 </div>
+</div>
+</div>
+<div class="sect4">
+<h5 id="_notable_issues">Notable issues</h5>
 <div class="paragraph">
-<p>I want to talk to some of the &#8230;&#8203; <em>disinformation</em> &#8230;&#8203; that had led to a number of complaints, but first there are certainly a few items that I think were mistakes (at least until USB-C has matured more fully) and helped cause even more unrest.</p>
+<p>I want to talk to some of the FUD that has led to a number of complaints, but first there are certainly a few areas where Apple could have done better and helped curb some of the unrest.</p>
 </div>
 <div class="olist arabic">
 <ol class="arabic">
-<li>
-<p><strong>No SD card slot</strong>. In the past I believe the prevailing opinion was that anyone seriously moving photos from SD to a computer needed to get a high quality external SD card reader to guarantee speed/quality/data integrity. Apparently at some point the built in SD card reader in the Macbook Pros passed that test and it seems a vocal bunch of people could have been satisfied entirely with an SD card slot.</p>
-</li>
 <li>
 <p><strong>No iGPU-only option for the 15" model</strong>. Apple built expecations starting with the 2012 release of the Macbook Pro with Retina display that there would be a number of price tiers making the computers more accessible depending on your choice of compromises. Providing a 15" Macbook Pro without an AMD graphics option available could have helped extend that entry level 15" model price downward.</p>
 </li>
@@ -28,11 +31,15 @@
 </div>
 <div class="imageblock">
 <div class="content">
-<img src="/images/macbooks/expresscard.jpg" alt="expresscard">
+<img src="/images/macbooks/expresscard.jpg" alt="expresscard.jpg">
 </div>
-<div class="title">Figure 1. The dongle you put <strong><em>in</em></strong> your computer (source: buysku.com)</div>
 </div>
-<hr>
+<div class="paragraph">
+<p>The dongle you put <strong><em>in</em></strong> your computer (source: buysku.com)</p>
+</div>
+</div>
+<div class="sect4">
+<h5 id="_misconceptions">Misconceptions</h5>
 <div class="paragraph">
 <p>From here we enter the territory of "they literally could not do what you want" without either shipping nothing or shipping a piece of functionality that compromises the rest of the product too strongly in another area.</p>
 </div>
@@ -58,7 +65,6 @@
 </li>
 </ol>
 </div>
-<hr>
 <div class="paragraph">
 <p>In order to prove that this future is the right future, Apple and third parties need to knock the functionality of the Touch Bar out of the park. I think we will find in the coming years that an all USB-C lifestyle will reduce peripheral complexity and make life actually easier, but we&#8217;re in that transition phase right now. I&#8217;m personally looking forward to life with a single cable connecting me to everything on my desk (attached to something like the outgoing Thunderbolt 2 hubs) excepting the prospect of an external GPU.</p>
 </div>
@@ -66,9 +72,8 @@
 <div class="content">
 <img src="/images/macbooks/wolfe.gif" alt="externalgpu">
 </div>
-<div class="title">Figure 2. The Wolfe will hopefully will be back soon (TB2 certification was a problem apparently) along with some competitors. (source: thewolfe.io)</div>
+<div class="title">Figure 1. The Wolfe will hopefully will be back soon (TB2 certification was a problem apparently) along with some competitors. (source: thewolfe.io)</div>
 </div>
-<hr>
 <div class="paragraph">
 <p>I want to get rid of my desktop entirely. I want to finally have OS X running as my primary computer with an external GPU/SSD for Windows gaming when the mood strikes. And I want to be able to take that computer with me and have powerful-enough graphics when I&#8217;m away without compromising on battery life.</p>
 </div>
@@ -77,6 +82,7 @@
 </div>
 <div class="paragraph">
 <p>Apple&#8217;s 15" Macbook Pro is basically opening the door to the future I want. Just 3-4 weeks to wait&#8230;&#8203;</p>
+</div>
 </div>]]></description><link>http://laposheureux.com/2016/10/31/The-state-of-Macbooks.html</link><guid isPermaLink="true">http://laposheureux.com/2016/10/31/The-state-of-Macbooks.html</guid><category><![CDATA[Apple]]></category><category><![CDATA[ Macbook Pro]]></category><category><![CDATA[ Macbook]]></category><category><![CDATA[ AMD]]></category><category><![CDATA[ Intel]]></category><dc:creator><![CDATA[Aaron L'Heureux]]></dc:creator><pubDate>Mon, 31 Oct 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Getting Started]]></title><description><![CDATA[<div class="paragraph">
 <p>Hello. This post feels like a construction gif of old. I&#8217;m setting up the basics of this site and playing around with its functionality to know what I can do next.</p>
 </div>
