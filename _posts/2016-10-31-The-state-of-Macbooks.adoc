@@ -12,7 +12,7 @@ A glimpse of the future...with a few stumbling blocks (source: Apple PR)
 
 I want to talk to some of the FUD that has led to a number of complaints, but first there are certainly a few areas where Apple could have done better and helped curb some of the unrest.
 
-1. *No iGPU-only option for the 15" model*. Apple built expecations starting with the 2012 release of the Macbook Pro with Retina display that there would be a number of price tiers making the computers more accessible depending on your choice of compromises. Providing a 15" Macbook Pro without an AMD graphics option available could have helped extend that entry level 15" model price downward.
+1. *No iGPU-only option for the 15" model*. Apple built expectations starting with the 2012 release of the Macbook Pro with Retina display that there would be a number of price tiers making the computers more accessible depending on your choice of compromises. Providing a 15" Macbook Pro without an AMD graphics option available could have helped extend that entry level 15" model price downward.
 
 2. *No compatibility aids in the box*. One USB-C -> USB-A dongle wouldn't have been the end of the world. It'd bring out of the box compatibility for the iPhone, your current external drive, and that one flash drive still attached to your keychain. Of course the quantity of complaints for _shipping a computer that comes with a dongle to be useful_ would be just as bad as _I can't use anything without buying a dongle_ but I digress... 
 
