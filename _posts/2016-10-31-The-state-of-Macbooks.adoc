@@ -5,27 +5,26 @@
 
 Over the past year, I distinctly recall a palpable frustration with Apple's lineup. Not much had changed tangibly in years and lots of people with lots of different needs were all devouring the rumors waiting for their specific needs to be solved. It was basically a perfect recipe for disappointment and oh has there been disappointment. Unfortunately the need to have top tier gaming performance, be able to run high-teens numbers of VMs, last all day on battery, have both old ports and only new ones, and more just can't all fit into one system. Not even a line of systems.
 
-I want to talk to some of the ... _disinformation_ ... that had led to a number of complaints, but first there are certainly a few items that I think were mistakes (at least until USB-C has matured more fully) and helped cause even more unrest.
+===== Notable issues
 
-1. *No SD card slot*. In the past I believe the prevailing opinion was that anyone seriously moving photos from SD to a computer needed to get a high quality external SD card reader to guarantee speed/quality/data integrity. Apparently at some point the built in SD card reader in the Macbook Pros passed that test and it seems a vocal bunch of people could have been satisfied entirely with an SD card slot.
+I want to talk to some of the FUD that has led to a number of complaints, but first there are certainly a few areas where Apple could have done better and helped curb some of the unrest.
 
-2. *No iGPU-only option for the 15" model*. Apple built expecations starting with the 2012 release of the Macbook Pro with Retina display that there would be a number of price tiers making the computers more accessible depending on your choice of compromises. Providing a 15" Macbook Pro without an AMD graphics option available could have helped extend that entry level 15" model price downward.
+1. *No iGPU-only option for the 15" model*. Apple built expecations starting with the 2012 release of the Macbook Pro with Retina display that there would be a number of price tiers making the computers more accessible depending on your choice of compromises. Providing a 15" Macbook Pro without an AMD graphics option available could have helped extend that entry level 15" model price downward.
 
-3. *No compatibility aids in the box*. One USB-C -> USB-A dongle wouldn't have been the end of the world. It'd bring out of the box compatibility for the iPhone, your current backup drive, and that one flash drive still attached to your keychain. Of course the quantity of complaints for _shipping a computer that comes with a dongle to be useful_ would be just as bad as _I can't use anything without buying a dongle_ but I digress... 
+2. *No compatibility aids in the box*. One USB-C -> USB-A dongle wouldn't have been the end of the world. It'd bring out of the box compatibility for the iPhone, your current backup drive, and that one flash drive still attached to your keychain. Of course the quantity of complaints for _shipping a computer that comes with a dongle to be useful_ would be just as bad as _I can't use anything without buying a dongle_ but I digress... 
 
-4. *Not refreshing the Mac Pro at the same time (or earlier)*. As We're going to find later on, Intel is a significant issue here. There aren't any hex-core Skylake-based Xeons out right now and 0 Kaby Lake Xeons. But Broadwell has https://en.wikipedia.org/wiki/Broadwell_(microarchitecture)#Server_processors[tons of configurations, target="_blank"] and this machine should have been updated when _those_ became available. Yes, the GPU story would be incomplete as it would still have been stuck in the 28nm generation, but we wouldn't be 1000+ days since an update with no product to pitch towards people willing to spend _more money_ for _more computer_.
+3. *Not refreshing the Mac Pro at the same time (or earlier)*. As We're going to find later on, Intel is a significant issue here. There aren't any hex-core Skylake-based Xeons out right now and 0 Kaby Lake Xeons. But Broadwell has https://en.wikipedia.org/wiki/Broadwell_(microarchitecture)#Server_processors[tons of configurations, target="_blank"] and this machine should have been updated when _those_ became available. Yes, the GPU story would be incomplete as it would still have been stuck in the 28nm generation, but we wouldn't be 1000+ days since an update with no product to pitch towards people willing to spend _more money_ for _more computer_.
 
-5. *All Touch Bar equipped Macbook Pros should ship with 16GB of RAM*. They just should. These are supposed to be pro machines, the prices went up. The 13" machines shipping with 8GB is unfortunate.
+4. *All Touch Bar equipped Macbook Pros should ship with 16GB of RAM*. They just should. These are supposed to be pro machines, the prices went up. The 13" machines shipping with 8GB is unfortunate.
 
 
 Ok, that list aside, the _it's not a pro laptop_ crowd should really take a look back at the history of the Macbook Pro and the issues that were made large in the past...lest we forget the removal of Firewire and https://rubenerd.com/macbookpro-expresscard/[the ExpressCard slot, window="_blank"]. The prevailing argument of the time being that going from an ExpressCard slot to an SD card slot was a downgrade unlike other legacy eliminations of the time. Now we're back to a port that lets you connect a number of multipurpose things instead of a single use and that's bad too.
 
-[expresscard]
-.The dongle you put *_in_* your computer (source: buysku.com)
 image::/images/macbooks/expresscard.jpg[]
+The dongle you put *_in_* your computer (source: buysku.com)
 
 
----
+===== Misconceptions
 
 From here we enter the territory of "they literally could not do what you want" without either shipping nothing or shipping a piece of functionality that compromises the rest of the product too strongly in another area.
 
@@ -41,15 +40,12 @@ From here we enter the territory of "they literally could not do what you want" 
 
 6. *The Non-Touch Bar model is slower than last year's 13" MacBook Pro* In base frequency, yes. It's a 15W part _replacing_ a 28W part. That said, its turbo clock speed is the same (3.1GHz) and in some preliminary benchmarks it is performing equivalently. In most cases the performance differential will simply not be noticeable if even existent at all (particularly with a newer generation Intel iGPU). This model is designed to attract people from the Air and offers significantly more than the outgoing Air at a moderate price premium.
 
----
-
 In order to prove that this future is the right future, Apple and third parties need to knock the functionality of the Touch Bar out of the park. I think we will find in the coming years that an all USB-C lifestyle will reduce peripheral complexity and make life actually easier, but we're in that transition phase right now. I'm personally looking forward to life with a single cable connecting me to everything on my desk (attached to something like the outgoing Thunderbolt 2 hubs) excepting the prospect of an external GPU.
 
 [externalgpu]
 .The Wolfe will hopefully will be back soon (TB2 certification was a problem apparently) along with some competitors. (source: thewolfe.io)
 image::/images/macbooks/wolfe.gif[]
 
----
 
 I want to get rid of my desktop entirely. I want to finally have OS X running as my primary computer with an external GPU/SSD for Windows gaming when the mood strikes. And I want to be able to take that computer with me and have powerful-enough graphics when I'm away without compromising on battery life.
 
