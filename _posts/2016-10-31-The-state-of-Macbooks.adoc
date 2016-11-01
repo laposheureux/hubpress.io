@@ -20,8 +20,9 @@ I want to talk to some of the ... _disinformation_ ... that had led to a number 
 
 Ok, that list aside, the "it's not a pro laptop" crowd should really take a look back at the history of the Macbook Pro and the issues that were made large in the past...lest we forget the removal of Firewire and https://rubenerd.com/macbookpro-expresscard/[the ExpressCard slot, window="_blank"]. The prevailing argument of the time being that going from an ExpressCard slot to an SD card slot was a downgrade unlike other legacy eliminations of the time. Now we're back to a port that lets you connect a number of multipurpose things instead of a single use and that's bad too.
 
+[expresscard]
+.The dongle you put *_in_* your computer (source: buysku.com)
 image::/images/macbooks/expresscard.jpg[]
-The dongle you put *_in_* your computer (source: buysku.com)
 
 
 ---
