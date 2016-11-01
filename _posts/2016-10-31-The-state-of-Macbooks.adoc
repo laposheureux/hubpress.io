@@ -13,6 +13,8 @@ I want to talk to some of the ... _disinformation_ ... that had led to a number 
 
 3. *No compatibility aids in the box*. One USB-C -> USB-A dongle wouldn't have been the end of the world. It'd bring out of the box compatibility for the iPhone, your current backup drive, and that one flash drive still attached to your keychain. Of course the quantity of complaints for "shipping a computer that comes with a dongle to be useful" would be just as bad as "I can't use anything without buying a dongle" but I digress... 
 
+4. *Not refreshing the Mac Pro at the same time*. As We're going to find later on, Intel is a significant issue here. There aren't any hex-core Skylake-based Xeons out right now and 0 Kaby Lake Xeons. But Broadwell has tons of configurations and this machine should have been updated when _those_ became available.
+
 
 Ok, that list aside, the "it's not a pro laptop" crowd should really take a look back at the history of the Macbook Pro and the issues that were made large in the past...lest we forget the removal of Firewire and https://rubenerd.com/macbookpro-expresscard/[the ExpressCard slot, window="_blank"]. The prevailing argument of the time being that going from an ExpressCard slot to an SD card slot was a downgrade unlike other legacy eliminations of the time. Now we're back to a port that lets you connect a number of multipurpose things instead of a single use and that's bad too.
 
