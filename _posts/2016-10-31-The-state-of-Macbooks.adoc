@@ -22,7 +22,7 @@ Ok, that list aside, the "it's not a pro laptop" crowd should really take a look
 
 [expresscard]
 .The dongle you put *_in_* your computer (source: buysku.com)
-image::/images/macbooks/expresscard.jpg[]
+image::/images/macbooks/expresscard.jpg[expresscard, 290, 290]
 
 ---
 
