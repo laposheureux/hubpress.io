@@ -29,7 +29,7 @@ The dongle you put *_in_* your computer (source: buysku.com)
 
 === Misconceptions
 
-From here we enter the territory of "they literally could not do what you want" without either shipping nothing or shipping a piece of functionality that compromises the rest of the product too strongly in another area.
+From here we enter the territory of _they literally could not do what you want_ without either shipping nothing or shipping a piece of functionality that compromises the rest of the product too strongly in another area.
 
 1. *It doesn't have Kaby Lake?* There's a lot here. First, there are no quad core CPUs for the 15" line (in the 40-50W vicinity). Second, there are no 20-30W  dual core CPUs for the 13" line. Intel did release 15W CPUs which would be suitable in the Air lineup (or the non Touch Bar Macbook Pro) and 4.5W CPUs for the Macbook, but launching newer generation hardware (with low tangible benefit) on the lowest tier products seems like a recipe for customer confusion.
 
