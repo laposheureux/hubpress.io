@@ -15,5 +15,6 @@ Ok, that list aside, the "it's not a pro laptop" crowd should really take a look
 .The dongle you put in your computer (source: buysku.com)
 image::/images/macbooks/expresscard.jpg[]
 
+---
 
-So let's get on with 
+From here we enter the territory of "they literally could not do what you want" without either shipping nothing or shipping a piece of functionality that compromises the rest of the product too strongly in another area.
