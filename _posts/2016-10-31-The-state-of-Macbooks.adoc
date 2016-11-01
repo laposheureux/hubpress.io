@@ -9,8 +9,10 @@ I want to talk to some of the ... _disinformation_ ... that had led to a number 
 
 1. *No SD card slot*. In the past I believe the opinion was that anyone seriously moving photos from SD to a computer needed to get one of a few external readers that were super fast and reliable and guaranteed not to wreck the SD card they were reading from. Apparently at some point the built in SD card reader in the Macbook Pros passed that test (the last time I tried, it was more finicky than I was willing to work with).
 
-Ok, that list aside, the "it's not a pro laptop" crowd should really take a look back at the history of the Macbook Pro and the issues that were made large in the past...lest we forget the removal of Firewire and https://rubenerd.com/macbookpro-expresscard/[the ExpressCard slot, window="_blank"].
+Ok, that list aside, the "it's not a pro laptop" crowd should really take a look back at the history of the Macbook Pro and the issues that were made large in the past...lest we forget the removal of Firewire and https://rubenerd.com/macbookpro-expresscard/[the ExpressCard slot, window="_blank"]. The prevailing argument of the time being that going from an ExpressCard slot to an SD card slot was a downgrade unlike other legacy eliminations of the time. Now we're back to a port that lets you connect a number of multipurpose things instead of a single use and that's bad too.
 
 [expresscard]
-.The dongle you put in your computer
+.The dongle you put in your computer (source: buysku.com)
 image::/images/macbooks/expresscard.jpg[]
+
+So let's get on with 
