@@ -34,7 +34,7 @@ From here we enter the territory of "they literally could not do what you want" 
 
 3. *It doesn't come with a 32GB RAM option?*. See above. This would have pushed Apple away from LPDDR3 modules, again, compromising battery life in a way that is not in line with any decision they've made in providing a baseline of battery life for the past 4 years of models of computers. Once again, Intel.
 
-4. *AMD graphics?*. Nvidia approached this generation from the top down, its highest powered devices 
+4. *AMD graphics?*. Nvidia approached this generation from the top down, its highest powered devices first and is only now starting to fill in its lower power options suitable for laptops hoping to have any battery life. AMD took a different approach, hitting baseline VR and then filling in its lower power products next. AMD also focuses on OpenCL performance, whereas Nvidia has continually pushed CUDA. Apple embraced OpenCL a long time ago and isn't likely to make any changes in that area.
 
 ---
 
