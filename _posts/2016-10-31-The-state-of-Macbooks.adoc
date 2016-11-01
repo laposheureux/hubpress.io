@@ -15,6 +15,8 @@ I want to talk to some of the ... _disinformation_ ... that had led to a number 
 
 4. *Not refreshing the Mac Pro at the same time (or earlier)*. As We're going to find later on, Intel is a significant issue here. There aren't any hex-core Skylake-based Xeons out right now and 0 Kaby Lake Xeons. But Broadwell has https://en.wikipedia.org/wiki/Broadwell_(microarchitecture)#Server_processors[tons of configurations, target="_blank"] and this machine should have been updated when _those_ became available. Yes, the GPU story would be incomplete as it would still have been stuck in the 28nm generation, but we wouldn't be 1000+ days since an update with no product to pitch towards people willing to spend _more money_ for _more computer_.
 
+5. *All Touch Bar equipped Macbook Pros should ship with 16GB of RAM*. They just should. These are supposed to be pro machines, the prices went up. The 13" machines shipping with 8GB is unfortunate.
+
 
 Ok, that list aside, the "it's not a pro laptop" crowd should really take a look back at the history of the Macbook Pro and the issues that were made large in the past...lest we forget the removal of Firewire and https://rubenerd.com/macbookpro-expresscard/[the ExpressCard slot, window="_blank"]. The prevailing argument of the time being that going from an ExpressCard slot to an SD card slot was a downgrade unlike other legacy eliminations of the time. Now we're back to a port that lets you connect a number of multipurpose things instead of a single use and that's bad too.
 
@@ -26,7 +28,9 @@ image::/images/macbooks/expresscard.jpg[]
 
 From here we enter the territory of "they literally could not do what you want" without either shipping nothing or shipping a piece of functionality that compromises the rest of the product too strongly in another area.
 
-1. *It doesn't have Kaby Lake?* There's a lot to unpack here. First, there are no quad core CPUs for the 15" line (in the 40-50W vicinity). Second, there are no 20-30W-tier dual core CPUs for the 13" line. Intel did release 15W CPUs which would be suitable in the Air lineup (or the non Touch Bar Macbook Pro) and 4.5W CPUs for the Macbook, but I can see 
+1. *It doesn't have Kaby Lake?*. There's a lot to unpack here. First, there are no quad core CPUs for the 15" line (in the 40-50W vicinity). Second, there are no 20-30W-tier dual core CPUs for the 13" line. Intel did release 15W CPUs which would be suitable in the Air lineup (or the non Touch Bar Macbook Pro) and 4.5W CPUs for the Macbook, but launching newer generation hardware on the lowest tier products seems like a recipe for customer confusion.
+
+2. *It doesn't have DDR4?*. A significant contributor to 
 
 ---
 
