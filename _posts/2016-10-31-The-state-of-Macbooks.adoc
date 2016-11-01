@@ -5,7 +5,7 @@
 
 Over the past year, I distinctly recall a palpable frustration with Apple's lineup. Not much had changed tangibly in years and lots of people with lots of different needs were all devouring the rumors waiting for their specific needs to be solved. It was basically a perfect recipe for disappointment and oh has there been disappointment. Unfortunately the need to have top tier gaming performance, be able to run high-teens numbers of VMs, last all day on battery, have both old ports and only new ones, and more just can't all fit into one system. Not even a line of systems.
 
-I want to talk to some of the ... _disinformation_ ... that had led to a number of complaints, but first there are certainly a few items that I think were mistakes (at least until USB-C has matured more fully) and helped cause even more unrest.
+I want to talk to some of the ... _disinformation_ ... that had led to a number of complaints, but first there are certainly a few items that I think were mistakes (at least until USB-C has matured more fully) and helped cause even more unrest. Buckle up, there's a lot here.
 
 1. *No SD card slot*. In the past I believe the prevailing opinion was that anyone seriously moving photos from SD to a computer needed to get a high quality external SD card reader to guarantee speed/quality/data integrity. Apparently at some point the built in SD card reader in the Macbook Pros passed that test and it seems a vocal bunch of people could have been satisfied entirely with an SD card slot.
 
@@ -25,6 +25,8 @@ image::/images/macbooks/expresscard.jpg[]
 ---
 
 From here we enter the territory of "they literally could not do what you want" without either shipping nothing or shipping a piece of functionality that compromises the rest of the product too strongly in another area.
+
+1. *It doesn't have Kaby Lake?* There's a lot to unpack here. First, there are no quad core CPUs for the 15" line (in the 40-50W vicinity). Second, there are no 20-30W-tier dual core CPUs for the 13" line. Intel did release 15W CPUs which would be suitable in the Air lineup (or the non Touch Bar Macbook Pro) and 4.5W CPUs for the Macbook, but I can see 
 
 ---
 
