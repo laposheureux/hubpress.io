@@ -5,7 +5,7 @@
 
 Over the past year, I distinctly recall a palpable frustration with Apple's lineup. Not much had changed tangibly in years and lots of people with lots of different needs were all devouring the rumors waiting for their specific needs to be solved. It was basically a perfect recipe for disappointment and oh has there been disappointment. Unfortunately the need to have top tier gaming performance, be able to run high-teens numbers of VMs, last all day on battery, have both old ports and only new ones, and more just can't all fit into one system. Not even a line of systems.
 
-I want to talk to some of the ... _disinformation_ ... that had led to a number of complaints, but first there are certainly a few items that I think were mistakes (at least until USB-C has matured more fully) and helped cause even more unrest. Buckle up, there's a lot here.
+I want to talk to some of the ... _disinformation_ ... that had led to a number of complaints, but first there are certainly a few items that I think were mistakes (at least until USB-C has matured more fully) and helped cause even more unrest.
 
 1. *No SD card slot*. In the past I believe the prevailing opinion was that anyone seriously moving photos from SD to a computer needed to get a high quality external SD card reader to guarantee speed/quality/data integrity. Apparently at some point the built in SD card reader in the Macbook Pros passed that test and it seems a vocal bunch of people could have been satisfied entirely with an SD card slot.
 
@@ -38,8 +38,20 @@ From here we enter the territory of "they literally could not do what you want" 
 
 5. *The price is so high!*. Apple effectively included an Apple Watch in cost with the Touch Bar and Touch ID sensor. They also are utilizing extremely high performance SSDs. Claiming 3+GBps performance all but guarantees a variation or competitor to Samsung's 960 Pro line of SSDs. People freaked at the +$1200 cost for the 2TB SSD upgrade, but at the time of this writing, the 2TB 960 Pro retails for $1300. It's just what the hardware costs. The included Alpine Ridge controllers, didn't offer an iGPU 15" model, and increased the size of the force touch hardware for the trackpad, and once again dramatically improved the display. This all costs money. It's why they released a model without the Touch Bar...
 
-6. *The Non-Touch Bar model is slower than last year's 13" MacBook Pro*. In base frequency, yes. It's a 15W part "replacing" a 28W part. That said, its turbo clock speed is the same and in some preliminary benchmarks it is performing admirably. In most cases the performance differential will simply not be noticeable if even existent at all (particularly with a newer generation Intel GPU)
+6. *The Non-Touch Bar model is slower than last year's 13" MacBook Pro*. In base frequency, yes. It's a 15W part "replacing" a 28W part. That said, its turbo clock speed is the same and in some preliminary benchmarks it is performing admirably. In most cases the performance differential will simply not be noticeable if even existent at all (particularly with a newer generation Intel GPU). This model is designed to attract people from the Air and offers significantly more than the outgoing Air at a reasonable price premium.
 
 ---
 
-In order to prove that this future is the right future, Apple and third parties need to knock the functionality of the Touch Bar out of the park. I think we will find in the coming years that an all USB-C lifestyle will reduce peripheral complexity and make life actually easier, but we're in that transition phase right now.
+In order to prove that this future is the right future, Apple and third parties need to knock the functionality of the Touch Bar out of the park. I think we will find in the coming years that an all USB-C lifestyle will reduce peripheral complexity and make life actually easier, but we're in that transition phase right now. I'm personally looking forward to life with a single cable connecting me to everything on my desk (attached to something like the outgoing Thunderbolt 2 hubs) excepting the prospect of an external GPU.
+
+[externalgpu]
+.The Wolfe, hopefully will be back soon (TB2 certification was a problem apparently) along with some competitors. (source: thewolfe.io)
+image::/images/macbooks/wolfe.gif[]
+
+---
+
+I want to get rid of my desktop entirely. I want to finally have OS X running as my primary computer with an external GPU/SSD for Windows gaming when the mood strikes. And I want to be able to take that computer with me and have powerful-enough graphics when I'm away without compromising on battery life.
+
+*I really don't want a touch screen laptop*. The Touch Bar is just the right amount of touch interactivity without a sea of fingerprints and arm-raised ergonomics.
+
+Apple's 15" Macbook Pro is basically opening the door to the future I want. Just 3-4 weeks to wait...
