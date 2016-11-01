@@ -7,8 +7,8 @@
     "delay": "500"
   },
   "site": {
-    "title": "Life with an apostrophe",
-    "description": "Aaron L'Heureux is an iOS engineer at Imgur. Former front-end engineer at Amazon & Boston University.",
+    "title": "Aaronpedia",
+    "description": "Aaron L'Heureux is an iOS engineer at Imgur. Previously: JS/Front-end at Amazon and Boston University.",
     "logo": "",
     "cover": "/images/bikesf.jpg",
     "postsPerPage": "10",
