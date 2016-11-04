@@ -1,4 +1,4 @@
-= The state of Macbooks
+= The state of MacBooks
 :hp-image: /images/macbooks/macbooks.jpg
 :hp-tags: Apple, MacBook Pro, MacBook, AMD, Intel
 :linkattrs:
