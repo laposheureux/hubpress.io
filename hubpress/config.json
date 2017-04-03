@@ -8,17 +8,25 @@
   },
   "site": {
     "title": "🌐 Aaronpedia",
-    "description": "Aaron L'Heureux is an iOS engineer at Imgur. Previously: JS/Front-end at Amazon and Boston University.",
+    "description": "Aaron L'Heureux is an iOS engineer at Imgur. Previously: JS/Front-end at Imgur, Amazon, and Boston University.",
     "logo": "",
     "cover": "/images/bikesf.jpg",
-    "postsPerPage": "10",
+    "postsPerPage": "15",
     "googleAnalytics": "UA-86497941-1",
-    "disqus": "laposheureux"
+    "disqus": "laposheureux",
+    "delay": "500"
   },
   "socialnetwork": {
     "twitter": "https://twitter.com/aaronpedia",
     "linkedin": "https://www.linkedin.com/in/aaronlh",
-    "github": "https://github.com/laposheureux"
+    "github": "https://github.com/laposheureux",
+    "email": "",
+    "facebook": "",
+    "googleplus": "",
+    "instagram": "",
+    "pinterest": "",
+    "flickr": "",
+    "stackoverflow": ""
   },
   "theme": {
     "name": "saga"
