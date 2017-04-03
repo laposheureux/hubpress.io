@@ -22,5 +22,21 @@
   },
   "theme": {
     "name": "saga"
+  },
+  "urls": {
+    "site": "http://aaronpedia.com",
+    "hubpress": "http://aaronpedia.com",
+    "theme": "//aaronpedia.com/themes/saga",
+    "images": "http://aaronpedia.com/images"
+  },
+  "initialisationConfigComponent": {
+    "name": "initialise-configuration",
+    "computed": {},
+    "methods": {},
+    "staticRenderFns": [
+      null,
+      null,
+      null
+    ]
   }
 }
