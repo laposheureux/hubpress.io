@@ -13,4 +13,5 @@ Turns out I'm not predisposed to writing a blog. Hopefully starting sometime in 
 
 But for now can we just take a moment and bask in this splendor?
 
-video::/images/epicdog.mp4
+video::/images/epicdog.mp4[]
+
