@@ -8,6 +8,7 @@
 = Let's try this again. Also Animoji dogs.
 :hp-image: /images/epicdog.png
 :hp-tags: Programming, Animoji
+:published_at: 2018-01-27
 
 Turns out I'm not predisposed to writing a blog. Hopefully starting sometime in February I'll have a couple topics to talk about. Starting in on a new Swift project and maybe some other changes.
 
