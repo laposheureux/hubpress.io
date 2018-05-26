@@ -8,13 +8,14 @@
   },
   "site": {
     "title": "🌐  Aaronpedia",
-    "description": "Aaron L'Heureux is an iOS engineer at Imgur. Previously: JS/Front-end at Imgur, Amazon, and Boston University.",
+    "description": "Aaron L'Heureux is an iOS engineer at Dropbox. Previously: iOS @ Imgur, Front-end Engineering @ Amazon & Boston University",
     "logo": "",
     "cover": "/images/bikesf.jpg",
     "postsPerPage": "15",
     "googleAnalytics": "UA-86497941-1",
     "disqus": "laposheureux",
-    "delay": "500"
+    "delay": "500",
+    "blogPath": ""
   },
   "socialnetwork": {
     "twitter": "https://twitter.com/aaronpedia",
@@ -26,7 +27,9 @@
     "instagram": "",
     "pinterest": "",
     "flickr": "",
-    "stackoverflow": "https://stackoverflow.com/users/232319/aaron"
+    "stackoverflow": "https://stackoverflow.com/users/232319/aaron",
+    "paypalme": "",
+    "opencollective": ""
   },
   "theme": {
     "name": "saga"
@@ -50,5 +53,6 @@
     "beforeCreate": [
       null
     ]
-  }
+  },
+  "navigation": []
 }
