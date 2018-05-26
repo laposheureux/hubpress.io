@@ -32,12 +32,12 @@
     "opencollective": ""
   },
   "theme": {
-    "name": "roon"
+    "name": "saga"
   },
   "urls": {
     "site": "http://aaronpedia.com",
     "hubpress": "http://aaronpedia.com",
-    "theme": "//aaronpedia.com/themes/ichi",
+    "theme": "//aaronpedia.com/themes/roon",
     "images": "http://aaronpedia.com/images"
   },
   "initialisationConfigComponent": {
