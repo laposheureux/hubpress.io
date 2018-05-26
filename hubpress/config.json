@@ -32,12 +32,12 @@
     "opencollective": ""
   },
   "theme": {
-    "name": "uno-zen"
+    "name": "casper"
   },
   "urls": {
     "site": "http://aaronpedia.com",
     "hubpress": "http://aaronpedia.com",
-    "theme": "//aaronpedia.com/themes/uno",
+    "theme": "//aaronpedia.com/themes/uno-zen",
     "images": "http://aaronpedia.com/images"
   },
   "initialisationConfigComponent": {
