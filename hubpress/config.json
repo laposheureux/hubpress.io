@@ -32,12 +32,12 @@
     "opencollective": ""
   },
   "theme": {
-    "name": "ghostium"
+    "name": "ichi"
   },
   "urls": {
     "site": "http://aaronpedia.com",
     "hubpress": "http://aaronpedia.com",
-    "theme": "//aaronpedia.com/themes/casper",
+    "theme": "//aaronpedia.com/themes/ghostium",
     "images": "http://aaronpedia.com/images"
   },
   "initialisationConfigComponent": {
