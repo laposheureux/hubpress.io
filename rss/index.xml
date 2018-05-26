@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[🌐  Aaronpedia]]></title><description><![CDATA[Aaron L'Heureux is an iOS engineer at Imgur. Previously: JS/Front-end at Imgur, Amazon, and Boston University.]]></description><link>http://aaronpedia.com</link><image><url>/images/bikesf.jpg</url><title>🌐  Aaronpedia</title><link>http://aaronpedia.com</link></image><generator>RSS for Node</generator><lastBuildDate>Sat, 27 Jan 2018 23:54:23 GMT</lastBuildDate><atom:link href="http://aaronpedia.com/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[eGPU Glory has Arrived]]></title><description><![CDATA[<div class="paragraph">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[🌐  Aaronpedia]]></title><description><![CDATA[Aaron L'Heureux is an iOS engineer at Dropbox. Previously: iOS @ Imgur, Front-end Engineering @ Amazon & Boston University]]></description><link>http://aaronpedia.com</link><image><url>/images/bikesf.jpg</url><title>🌐  Aaronpedia</title><link>http://aaronpedia.com</link></image><generator>RSS for Node</generator><lastBuildDate>Sat, 26 May 2018 05:56:34 GMT</lastBuildDate><atom:link href="http://aaronpedia.com/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[eGPU Glory has Arrived]]></title><description><![CDATA[<div class="paragraph">
 <p>So a number of months ago I picked up a Mantiz Venus eGPU enclosure in perfectly matching space gray for my 2016 15" rMBP and it worked great with High Sierra in OS X&#8230;&#8203;minus clamshell mode not actually shutting off the internal display.</p>
 </div>
 <div class="paragraph">
@@ -31,7 +31,7 @@ Your browser does not support the video tag.
 </div>
 <div class="imageblock">
 <div class="content">
-<img src="/images/macbooks/backtoback.jpg" alt="backtoback.jpg">
+<img src="/images/macbooks/backtoback.jpg" alt="backtoback">
 </div>
 </div>
 <div class="paragraph">
@@ -61,11 +61,11 @@ Your browser does not support the video tag.
 </ol>
 </div>
 <div class="paragraph">
-<p>I&#8217;m not going to include the SD card here. The <em>it&#8217;s not a pro laptop</em> crowd should really take a look back at the history of the MacBook Pro and the issues that were made large in the past&#8230;&#8203;lest we forget the removal of Firewire and <a href="https://rubenerd.com/macbookpro-expresscard/" target="_blank">the ExpressCard slot</a>. The prevailing argument of the time being that going from an ExpressCard slot to an SD card slot was a downgrade unlike other legacy port eliminations in the past. Now we&#8217;re back to a port that lets you connect a number of multipurpose things instead of providing a single use and that&#8217;s apparently the worst, too. Yes, Compact Flash has largely gone away in the interim and was a driving factor for flexibility being important, but the result is bemoaning the return of options.</p>
+<p>I&#8217;m not going to include the SD card here. The <em>it&#8217;s not a pro laptop</em> crowd should really take a look back at the history of the MacBook Pro and the issues that were made large in the past&#8230;&#8203;lest we forget the removal of Firewire and <a href="https://rubenerd.com/macbookpro-expresscard/" target="_blank" rel="noopener">the ExpressCard slot</a>. The prevailing argument of the time being that going from an ExpressCard slot to an SD card slot was a downgrade unlike other legacy port eliminations in the past. Now we&#8217;re back to a port that lets you connect a number of multipurpose things instead of providing a single use and that&#8217;s apparently the worst, too. Yes, Compact Flash has largely gone away in the interim and was a driving factor for flexibility being important, but the result is bemoaning the return of options.</p>
 </div>
 <div class="imageblock">
 <div class="content">
-<img src="/images/macbooks/expresscard.jpg" alt="expresscard.jpg">
+<img src="/images/macbooks/expresscard.jpg" alt="expresscard">
 </div>
 </div>
 <div class="paragraph">
@@ -104,7 +104,7 @@ Your browser does not support the video tag.
 </div>
 <div class="imageblock">
 <div class="content">
-<img src="/images/macbooks/wolfe.gif" alt="wolfe.gif">
+<img src="/images/macbooks/wolfe.gif" alt="wolfe">
 </div>
 </div>
 <div class="paragraph">
