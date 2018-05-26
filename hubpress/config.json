@@ -32,12 +32,12 @@
     "opencollective": ""
   },
   "theme": {
-    "name": "uno"
+    "name": "uno-zen"
   },
   "urls": {
     "site": "http://aaronpedia.com",
     "hubpress": "http://aaronpedia.com",
-    "theme": "//aaronpedia.com/themes/saga",
+    "theme": "//aaronpedia.com/themes/uno",
     "images": "http://aaronpedia.com/images"
   },
   "initialisationConfigComponent": {
