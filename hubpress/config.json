@@ -37,7 +37,7 @@
   "urls": {
     "site": "http://aaronpedia.com",
     "hubpress": "http://aaronpedia.com",
-    "theme": "//aaronpedia.com/themes/saga",
+    "theme": "//aaronpedia.com/themes/casper",
     "images": "http://aaronpedia.com/images"
   },
   "initialisationConfigComponent": {
